@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
 <h1 align="center">Hi 👋, I'm Naseer</h1>
-<h3 align="center">Armed with 3+ years of an awesome experience in Frontend Development, always hungry for learning new
+<h3 align="center">Armed with 8+ years of an awesome experience in Full Stack Development, always hungry for learning new
   technologies & skills and to take on challenges.
 </h3>
 <p align="center"> <img
